@@ -8,33 +8,8 @@ the organizations IT systems are compliant with all applicable laws and regulati
 necessary changes to improve efficiency and reliability.
 
 
+<p align="center">
 
-<html>
-   
-<head>
-      <title>Open URL in New Tab </title>
-</head>
-   
-<body>
- 
-     
-<p> Click the button to open
-          <b> geeksforgeeks.org </b>
-          in new tab
-      </p>
- 
- 
-    <button onclick="NewTab()">
-        Open Geeksforgeeks
-    </button>
- 
-    <script>
-        function NewTab() {
-            window.open(
-            "https://www.geeksforgeeks.org", "_blank");
-        }
-    </script>
- 
-</body>
- 
-</html>
+  <a href="https://www.linkedin.com/in/paul-s-807598145"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/0IdggSZ.png"/></a>
+
+   </p>
