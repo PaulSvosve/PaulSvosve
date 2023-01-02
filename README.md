@@ -9,3 +9,8 @@ necessary changes to improve efficiency and reliability.
 
 
 
+<p align="center">
+
+  <a href="www.linkedin.com/in/paul-s-807598145"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/0IdggSZ.png"/></a>
+
+</p>
