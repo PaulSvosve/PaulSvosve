@@ -8,8 +8,15 @@ the organizations IT systems are compliant with all applicable laws and regulati
 necessary changes to improve efficiency and reliability.
 
 
+<!DOCTYPE html>
+<html>
+<body>
 
+<h1>The a target attribute</h1>
 <p align="center">
  <a href="https://www.linkedin.com/in/paul-s-807598145"  target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/0IdggSZ.png"/></a>
 
 </p>
+ 
+ </body>
+</html>
