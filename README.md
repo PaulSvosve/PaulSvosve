@@ -10,8 +10,6 @@ necessary changes to improve efficiency and reliability.
 
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/paul-s-807598145" target=" _blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/0IdggSZ.png"/>
-  </a>
+<a href="https://www.linkedin.com/in/paul-s-807598145" target=" _blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/0IdggSZ.png"/></a>
 
 </p>
