@@ -8,19 +8,15 @@ the organizations IT systems are compliant with all applicable laws and regulati
 necessary changes to improve efficiency and reliability.
 
 
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/paul-svosve-807598145"  target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/PaulSvosve/PaulSvosve/blob/ed4bf074f499403db3b8af217f75d03bf4d905d6/linkedIN.png"/></a>
 
 
 
 <a href="https://github.com/PaulSvosve/PaulSvosve.git"  target="_blank"><img width="32px" alt="GitHub" title="Github"
  src="https://i.imgur.com/VN0Vh9S.png"/></a>
- 
-
 <a href="https://github.com/PaulSvosve/PaulSvosve.git"  target="_blank"><img width="32px" alt="GitHub" title="Github"
  src="https://i.imgur.com/VN0Vh9S.png"/></a>
- 
- 
 <a href="https://mail.google.com/mail/u/0/" target="_blank"><img align="left" width="32px" alt="Gmail" title="Gmail"
 src="https://github.com/PaulSvosve/PaulSvosve/blob/eb5e48c4461a17c05eca755758452bbc9b428f1d/Gmail-1.jpg"/></a>
 
