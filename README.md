@@ -15,6 +15,11 @@ necessary changes to improve efficiency and reliability.
 
 <a href="https://github.com/PaulSvosve/PaulSvosve.git"  target="_blank"><img width="32px" alt="GitHub" title="Github"
  src="https://i.imgur.com/VN0Vh9S.png"/></a>
+ 
+ 
+<a href="https://mail.google.com/mail/u/0/" target="_blank"><img width="32px" alt="Gmail" title="Gmail"
+ src=" https://github.com/PaulSvosve/PaulSvosve/blob/eb5e48c4461a17c05eca755758452bbc9b428f1d/Gmail-1.jpg"/></a>
+
 
 
    </p>
