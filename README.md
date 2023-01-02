@@ -8,15 +8,23 @@ the organizations IT systems are compliant with all applicable laws and regulati
 necessary changes to improve efficiency and reliability.
 
 
-<!DOCTYPE html>
+
 <html>
+   
+<head>
+      <title>Open URL in New Tab </title>
+</head>
+   
 <body>
-
-
-
- <a href="https://www.linkedin.com/in/paul-s-807598145"  target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/0IdggSZ.png"/></a>
-
- <button onclick="NewTab()">
+ 
+     
+<p> Click the button to open
+          <b> geeksforgeeks.org </b>
+          in new tab
+      </p>
+ 
+ 
+    <button onclick="NewTab()">
         Open Geeksforgeeks
     </button>
  
@@ -27,5 +35,6 @@ necessary changes to improve efficiency and reliability.
         }
     </script>
  
- </body>
+</body>
+ 
 </html>
