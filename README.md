@@ -9,7 +9,7 @@ necessary changes to improve efficiency and reliability.
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/paul-svosve-807598145"  target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/0IdggSZ.png"/></a>
+<a href="https://www.linkedin.com/in/paul-svosve-807598145"  target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/ios-glyphs/2x/linkedin-circled.png"/></a>
 
 <a href="https://github.com/PaulSvosve/PaulSvosve.git"  target="_blank"><img width="32px" alt="GitHub" title="Github"
  src="https://i.imgur.com/VN0Vh9S.png"/></a>
