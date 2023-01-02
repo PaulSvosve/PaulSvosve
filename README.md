@@ -1,16 +1,16 @@
-### Hi there 👋
+Paul Svosve
 
-<!--
-**PaulSvosve/PaulSvosve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer (AWS Cloud Solutions Architect / Full Stack Developer)
 
-Here are some ideas to get you started:
+I'm an DevOps Engineer I work closely with software developers, system administrators and other IT Professional to ensure that the organization's IT Systems are 
+secure, reliable, and cost effective. I am responsible for setting up, maintaining, and troubleshooting the organization's IT Infrastructure. Also ensure that 
+the organizations IT systems are compliant with all applicable laws and regulations. Checking and monitoring the performance of the IT infrastructure and making 
+necessary changes to improve efficiency and reliability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left">
+<a href="https://www.youtube.com/c/fnight?sub_confirmation=1">
+    <img alt ="youtube subscribers" title=""Subscribe to my youtuube channel"
+    src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers"/></a>
+
+</p>
