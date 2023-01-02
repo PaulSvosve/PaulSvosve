@@ -16,7 +16,16 @@ necessary changes to improve efficiency and reliability.
 
  <a href="https://www.linkedin.com/in/paul-s-807598145"  target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/0IdggSZ.png"/></a>
 
-
+ <button onclick="NewTab()">
+        Open Geeksforgeeks
+    </button>
+ 
+    <script>
+        function NewTab() {
+            window.open(
+            "https://www.geeksforgeeks.org", "_blank");
+        }
+    </script>
  
  </body>
 </html>
